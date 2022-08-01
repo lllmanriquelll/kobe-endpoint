@@ -4,6 +4,15 @@ Este pacote é parte das tarefas solicitadas pela empresa Kobe durante uma entre
 
 O pacote roda um endpoint que retorna um conjunto de chave e valor no header da requisição através do response.
 
+Passo opcional, mas recomendado. Crie um venv para instalar o pacote:
+
+```
+mkdir kobe
+cd kobe
+python3 -m venv venv
+source venv/bin/activate
+```
+
 Para instalar o pacote, utilize o comando a seguir:
 
 ```
@@ -28,7 +37,7 @@ Acesse o diretório clonado:
 cd kobe-endpoint/
 ```
 
-Instale os pacotes necessários, caso ainda os tenha no env:
+Instale os pacotes necessários, caso ainda os tenha:
 
  ```
  pip install -r requirements.txt
