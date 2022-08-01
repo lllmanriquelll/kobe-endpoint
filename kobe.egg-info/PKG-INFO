@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: kobe
+Version: 0.0.1
+Summary: Endpoint FastAPI
+Home-page: https://github.com/lllmanriquelll/kobe-endpoint
+Author: Luis Manrique
+Author-email: manrique.luis@gmail.com
+License: MIT License
+Keywords: endpoint
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# kobe-endpoint
+
+Este pacote é parte das tarefas solicitadas pela empresa Kobe durante uma entrevista técnica.
+
+O pacote roda um endpoint que retorna um conjunto de chave e valor no header da requisição através do response.
+
+Para instalar o pacote, utilize o comando a seguir:
+
+```
+git clone ....
+```
+

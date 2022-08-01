@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+kobe/__init__.py
+kobe/main.py
+kobe.egg-info/PKG-INFO
+kobe.egg-info/SOURCES.txt
+kobe.egg-info/dependency_links.txt
+kobe.egg-info/requires.txt
+kobe.egg-info/top_level.txt
