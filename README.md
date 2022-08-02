@@ -26,7 +26,7 @@ pip install --no-cache-dir kobe --index-url=https://lllmanriquelll.github.io/kob
 O endpoint deve ser executado com os seguintes parâmetros:
 
 ```
-uvicorn kobe.main:app --reload
+uvicorn kobe.main:app
 ```
 
 A saída do comando uvicorn mostra o endereço em que a aplicação está rodando, o padrão é **http://127.0.0.1:8000**, 
@@ -50,7 +50,7 @@ Acesse o diretório clonado:
 cd kobe-endpoint/
 ```
 
-Instale os pacotes necessários, caso ainda os tenha:
+Instale os pacotes necessários, caso ainda não os tenha:
 
  ```
  pip install -r requirements.txt
